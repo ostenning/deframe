@@ -1,0 +1,14 @@
+[package]
+name = "deframe"
+version = "0.0.1"
+authors = ["Oliver Stenning <code@ostenning.com>"]
+edition = "2018"
+description = "A frame/block parser for embedded and no_std applications"
+keywords = ["block-parser", "frame-parser", "parser", "frame"]
+categories = ["embedded", "data-structures", "no-std"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/ostenning/deframe"
+
+[features]
+default = []
